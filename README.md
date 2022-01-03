@@ -1,8 +1,8 @@
 Doc page:
 Architektura:
-<img src="image/doc.jpg">
+<img src="/projekt/image/doc.jpg">
 Potwierdzenie działania usługi:
-<img src="image/work.jpg">
+<img src="/projekt/image/work.jpg">
 
 
 Jedyne zmiany jakie zaszły względem kodu źródłowego pobranego z lab10 to:
