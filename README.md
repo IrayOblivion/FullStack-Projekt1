@@ -16,3 +16,11 @@ Jedyne zmiany jakie zaszły względem kodu źródłowego pobranego z lab10 to:
         <li> zmodyfikowałem App.js, aby służył ja narzędzie routingu zawierające nazwę wykonanego zadania i jego autora</li>
 
 Wszystkie wykorzystywane i zmodyfikowane dockerfile mają postać Dockerfile.dev, a plik compose docker-compose.dev.yml
+
+Jak należy uruchomić projekt:
+1. Pobranie repo z git huba
+2. Wejście do katalogu projekt
+3. W celu uruchomienia projektu należy użyć komendy COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 docker compose -f docker-compose.dev.yml up 
+4. W razie problemu komenda: COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 docker compose -f docker-compose.dev.yml up  --build
+5. Wejść na localhost:3050
+6. Korzystać z strony
