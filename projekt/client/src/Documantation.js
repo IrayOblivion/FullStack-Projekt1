@@ -7,10 +7,11 @@ export default () => {
       Doc page:
       <br/>
       Architektura:
-      <img src="image/doc.jpg"/>
+      <img src="https://raw.githubusercontent.com/IrayOblivion/FullStack-Projekt1/main/projekt/image/doc.jpg"/>
       <br/>
       Potwierdzenie działania usługi:
-      <img src="image/work.jpg"/>
+      <br/>
+      <img src="https://raw.githubusercontent.com/IrayOblivion/FullStack-Projekt1/main/projekt/image/work.jpg" width="900" height="720"/>
       <br/>
       <div>
       
